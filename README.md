@@ -1,0 +1,2 @@
+# ERO-FIGHTERS_KR
+ERO FIGHTERS의 비공식 한글화 패치입니다.
